@@ -12,6 +12,10 @@ class Program
         {
             Console.WriteLine("The number is negative...");
         }
+        else if(x == 0)
+        {
+            Console.WriteLine("Zero niether postive noe negative...");
+        }
         else
         {
             Console.WriteLine("The number is positive...");
