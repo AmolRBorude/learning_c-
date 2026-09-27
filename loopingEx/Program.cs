@@ -8,5 +8,7 @@ class Program
         {
             Console.WriteLine(i);
         }
+
+        whileloopEx.run();
     }
 }
