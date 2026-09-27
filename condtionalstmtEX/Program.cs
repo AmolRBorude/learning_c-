@@ -20,5 +20,7 @@ class Program
         {
             Console.WriteLine("The number is positive...");
         }
+
+          Switchcase.run();
     }
 }
