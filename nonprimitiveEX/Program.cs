@@ -5,6 +5,8 @@ class Program
     static void Main()
         {
                 string s = "Hello";
-                Console.WriteLine(s);
+                Console.WriteLine("string : "+s);
+
+                Console.WriteLine("length of string : "+s.Length);
         }
 }
