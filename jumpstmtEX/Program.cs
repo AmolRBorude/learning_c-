@@ -46,10 +46,6 @@ class Program
         // second:
         // Console.WriteLine("Stmt 3");
 
-        static void main()
-        {
-                string s = "Hello";
-                Console.WriteLine(s);
-        }
+        
     
 }
